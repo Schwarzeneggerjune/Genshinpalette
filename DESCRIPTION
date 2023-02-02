@@ -1,0 +1,31 @@
+Package: Genshinpalette
+Type: Package
+Title: Genshin Color Palettes for 'ggplot2'
+Version: 0.0.1.9000
+Authors@R: 
+    person(given = "Jun",
+           family = "Wang",
+           role = c("aut", "cre", "cph"),
+           email = "814713951@qq.com")
+Description: A collection of 'ggplot2' color palettes inspired by character creation in Genshin
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+License: GPL-3
+VignetteBuilder: knitr
+URL: https://github.com/Schwarzeneggerjune/Genshinpalette
+BugReports: https://github.com/Schwarzeneggerjune/Genshinpalette/issues
+Depends:
+    R (>= 3.0.2)
+Imports:
+    grDevices,
+    scales,
+    ggplot2 (>= 2.0.0)
+Suggests:
+    knitr,
+    rmarkdown,
+    gridExtra,
+    reshape2,
+    testthat (>= 3.0.0)
+Encoding: UTF-8
+LazyData: true
+Config/testthat/edition: 3
