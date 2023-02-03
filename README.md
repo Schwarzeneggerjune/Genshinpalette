@@ -1,7 +1,7 @@
 # Genshinpalette
 
 `Genshinpalette` offers a collection of  color palettes inspired by Genshin character.
-
+Palettes for all characters are included in the package, which will be updated from time to time.
 # <img src="https://img.139y.com/m00/e7/6e/e8d93cb89fad7acfd6bdfd3e67bc54c6.jpg" alt="img" style="zoom: 25%;" />
 
 ## Installation
@@ -43,7 +43,7 @@ data("diamonds")
 ) +
   geom_histogram(colour = "black", binwidth = 1, position = "dodge") +
   theme_bw()+
-  scale_fill_Genshin(palette='JEAN')
+  scale_fill_Genshin(palette='JEAN')#same as `scale_fill_manual` in ggplot2
 ```
 
 ![JEAN](https://user-images.githubusercontent.com/102496771/216555468-682f7e17-e91f-4e56-a472-a15d0bafbefd.png)
