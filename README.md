@@ -14,7 +14,7 @@ remotes::install_github("Schwarzeneggerjune/Genshinpalette",force = T)
 
 ## Usage
 
-There are three simple  functions in this package, `get_character_name` can get the character names in Genshin. You can get theme color from characters using `Genshinpalette` , and `display_colors` can provide a preview of the color palette.
+There are some simple  functions in this package, `get_character_name` can get the character names in Genshin. You can get theme color from characters using `Genshinpalette` , and `display_colors` can provide a preview of the color palette. `scale_color_Genshin` can provide color scale for ggplot object.
 
 ```R
 char_name=get_character_name(Country = "All")
@@ -42,7 +42,7 @@ data("diamonds")
 ) +
   geom_histogram(colour = "black", binwidth = 1, position = "dodge") +
   theme_bw()+
-  scale_fill_manual(values = Genshinpalette('JEAN'))
+  scale_fill_Genshin(palette='JEAN')
 ```
 
 ![JEAN](https://user-images.githubusercontent.com/102496771/216555468-682f7e17-e91f-4e56-a472-a15d0bafbefd.png)
@@ -57,7 +57,7 @@ ggplot(
 ) +
   geom_histogram(colour = "black", binwidth = 1, position = "dodge") +
   theme_bw()+
-  scale_fill_manual(values = Genshinpalette('GANYU'))
+  scale_fill_Genshin(palette='GANYU')
 ```
 ![GANYU](https://user-images.githubusercontent.com/102496771/216555533-de4edc6d-c58e-4635-a029-1175dae0ac6a.png)
 
