@@ -3,6 +3,7 @@
 \name{scale_color_Genshin}
 \alias{scale_color_Genshin}
 \title{Genshin Color Scales
+\description{Genshin Color Scales
 including
 \code{scale_color_Genshin()}
 \code{scale_colour_Genshin()}
