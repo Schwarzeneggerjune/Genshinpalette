@@ -3,3 +3,6 @@
 export(Genshinpalette)
 export(display_colors)
 export(get_character_name)
+export(scale_color_Genshin)
+export(scale_fill_Genshin)
+importFrom(ggplot2,discrete_scale)
