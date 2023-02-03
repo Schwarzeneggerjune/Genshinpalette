@@ -29,7 +29,6 @@ display_colors('FISCHL')
 
 ```
 
-![Rplot](C:\Users\Administrator\Desktop\GenshinPalette\Rplot.png)
 
 ## Gallery
 
@@ -46,7 +45,8 @@ data("diamonds")
   scale_fill_manual(values = Genshinpalette('JEAN'))
 ```
 
-![JEAN](F:\MZBJ\Genshin\JEAN.png)
+![JEAN](https://user-images.githubusercontent.com/102496771/216555468-682f7e17-e91f-4e56-a472-a15d0bafbefd.png)
+
 
 
 
@@ -59,22 +59,16 @@ ggplot(
   theme_bw()+
   scale_fill_manual(values = Genshinpalette('GANYU'))
 ```
+![GANYU](https://user-images.githubusercontent.com/102496771/216555533-de4edc6d-c58e-4635-a029-1175dae0ac6a.png)
 
-![GANYU](F:\MZBJ\Genshin\GANYU.png)
 
 ## Palette display
 
-![组合1](F:\MZBJ\Genshin\组合1.jpg)
+![组合10](https://user-images.githubusercontent.com/102496771/216555571-c0c134db-4982-42c5-b2ce-42a84b79a32f.png)
+![组合7](https://user-images.githubusercontent.com/102496771/216555636-c34656f8-a368-4b9a-93c4-cbc24bab1467.jpg)
+![组合8](https://user-images.githubusercontent.com/102496771/216555646-e5646630-a3a2-41c5-9d8e-676328b2f6eb.jpg)
+![组合9](https://user-images.githubusercontent.com/102496771/216555650-4f5ac18e-7a06-4b04-b90e-47d967c516a5.jpg)
+![组合5](https://user-images.githubusercontent.com/102496771/216555652-919a555d-d9a6-4e33-b4ca-d47eb0ecd281.jpg)
+![组合6](https://user-images.githubusercontent.com/102496771/216555656-8868ac8a-3884-4b70-b1df-ff8acef23ed6.jpg)
 
-![组合2](F:\MZBJ\Genshin\组合2.jpg)
-
-![组合3](F:\MZBJ\Genshin\组合3.jpg)
-
-![组合4](F:\MZBJ\Genshin\组合4.jpg)
-
-![组合8](F:\MZBJ\Genshin\组合8.jpg)
-
-![组合10](F:\MZBJ\Genshin\组合10.png)
-
-![组合5](F:\MZBJ\Genshin\组合5.jpg)
 
