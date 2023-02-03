@@ -17,6 +17,7 @@ remotes::install_github("Schwarzeneggerjune/Genshinpalette",force = T)
 There are some simple  functions in this package, `get_character_name` can get the character names in Genshin. You can get theme color from characters using `Genshinpalette` , and `display_colors` can provide a preview of the color palette. `scale_color_Genshin` can provide color scale for ggplot object.
 
 ```R
+library(Genshinpalette)
 char_name=get_character_name(Country = "All")
 head(char_name,10)
   ALBEDO     ALOY    AMBER  BARBARA  BENNETT    DIONA    DILUC   FISCHL    KAEYA     KLEE 
