@@ -71,5 +71,6 @@ ggplot(
 ![组合9](https://user-images.githubusercontent.com/102496771/216555650-4f5ac18e-7a06-4b04-b90e-47d967c516a5.jpg)
 ![组合5](https://user-images.githubusercontent.com/102496771/216555652-919a555d-d9a6-4e33-b4ca-d47eb0ecd281.jpg)
 ![组合6](https://user-images.githubusercontent.com/102496771/216555656-8868ac8a-3884-4b70-b1df-ff8acef23ed6.jpg)
-
-
+![组合2](https://user-images.githubusercontent.com/102496771/216558960-53ab2342-f803-42c4-af56-b2516951ea66.jpg)
+![组合3](https://user-images.githubusercontent.com/102496771/216558975-0383021d-d788-413b-b5f3-7afb1e6651c7.jpg)
+![组合1](https://user-images.githubusercontent.com/102496771/216558946-6429df83-4c2d-4e21-bf97-f4f92b6a93d9.jpg)
