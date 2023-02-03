@@ -2,7 +2,7 @@
 % Please edit documentation in R/scale_color_Genshin.R
 \name{scale_color_Genshin}
 \alias{scale_color_Genshin}
-\title{Genshin Color Scales
+\title{Genshin Color Scales}
 \description{Genshin Color Scales
 including
 \code{scale_color_Genshin()}
